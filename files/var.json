@@ -1,0 +1,17 @@
+{
+  "search_terms": "mental health",
+  "http_api_settings": {
+    "base_url": "https://api.crossref.org/works",
+    "params": {
+      "sort": "score",
+      "order": "desc",
+      "mailto": "javiersan2911@gmail.com",
+      "rows": 100,
+      "offset": 0
+    },
+    "headers": {
+      "User-Agent": "Airflow/2.8.3 (mailto:javiersan2911@gmail.com)"
+    },
+    "filter_fields": "type:monograph,type:journal-article,type:journal-volume,type:proceedings-article,type:proceedings,type:journal-issue,type:dissertation"
+  }
+}

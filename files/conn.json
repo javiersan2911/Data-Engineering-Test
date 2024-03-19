@@ -1,0 +1,10 @@
+{
+    "http_books_api": {
+        "conn_type": "http",
+        "host": "api.crossref.org",
+        "schema": "https",
+        "login": "None",
+        "password": "None",
+        "port": "443"
+    }
+}
