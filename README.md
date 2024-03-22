@@ -1,4 +1,4 @@
-#ETL Project to get data from CrossRef API
+# ETL Project to get data from CrossRef API
 
 ## Overall Architecture
 
